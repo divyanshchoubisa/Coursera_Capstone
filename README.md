@@ -15,5 +15,5 @@ The Foursquare API allows application developers to interact with the Foursquare
 
 ## Use of Foursquare API
 -We can use Foursquare API to gather information about different Indian Restaurant near Eiffel Tower, information such as Name of Those Indian Restaurants, Address of those Indian Restaurants, their rating etc... <br/>
--Locate those restaurants of a map. <br/>
+-Locate those restaurants on a map. <br/>
 -Suggest a good location to open a Indian Restaurant in Paris based on gathered location of those restaurants and their corresponding rating. <br/>
