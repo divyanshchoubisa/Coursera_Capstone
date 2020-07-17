@@ -1,6 +1,6 @@
 # IBM DATA SCIENCE PROFESSIONAL CERTIFICATE CAPSTONE PROJECT
 
-This is capstone porject from IBM Data Science Professional Certificate.
+This is capstone project from IBM Data Science Professional Certificate on Coursera.
 
 ### Task
 Use Foursquare location data to explore cities of your choice or to come up with a problem that you can use the Foursquare location data to solve.
